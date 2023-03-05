@@ -1,0 +1,73 @@
+
+.headerdiv {
+    text-align: center;
+}
+
+header {
+    color: white;
+    background-color: rgb(23, 155, 207);
+}
+
+main p {
+    overflow: auto;
+}
+
+nav {
+    padding: 3px;
+    background-color: powderblue;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav a {
+    text-align: left;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: rgb(194, 38, 38);
+}
+
+main {
+    width: 70%;
+    float: left;
+}
+
+.rpsejarah {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98%;
+    height: 100%;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    top: 21%;
+    right: 0;
+}
+
+.asidearticle {
+    height: 100%;
+    overflow: scroll;
+}
+
+.navlink {
+    display: inline;
+}
+
+.divavatar {
+    display: inline;
+    width: 320px;
+    height: 340px;
+}
+
+.avatar {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
